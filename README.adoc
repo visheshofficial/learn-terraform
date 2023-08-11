@@ -12,7 +12,7 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-= AWS Terraform Modules Service Catalog
+= Terraform Playground
 
 Terraform module for creating IAM roles.
 
