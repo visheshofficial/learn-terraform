@@ -1,0 +1,3 @@
+[submodule "hashicorp-certified-terraform-associate-003/tac-course"]
+	path = hashicorp-certified-terraform-associate-003/tac-course
+	url = https://github.com/daveprowse/tac-course.git
