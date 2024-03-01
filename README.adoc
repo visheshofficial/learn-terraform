@@ -1,0 +1,8 @@
+= My Document Title
+Author Name <author@example.com>
+:date: 2022-01-01
+:keywords: AsciiDoc, documentation, Terraform
+
+== Introduction
+
+This is the introduction section of my document.
